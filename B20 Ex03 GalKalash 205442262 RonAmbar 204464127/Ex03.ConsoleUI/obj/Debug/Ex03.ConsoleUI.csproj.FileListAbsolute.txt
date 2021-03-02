@@ -1,0 +1,22 @@
+C:\Users\ronam\Desktop\לימודים\שנה ב\סמסטר ב\C#\תרגיל 3\B20 Ex03 GalKalash 205442262 RonAmbar 204464127\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe.config
+C:\Users\ronam\Desktop\לימודים\שנה ב\סמסטר ב\C#\תרגיל 3\B20 Ex03 GalKalash 205442262 RonAmbar 204464127\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+C:\Users\ronam\Desktop\לימודים\שנה ב\סמסטר ב\C#\תרגיל 3\B20 Ex03 GalKalash 205442262 RonAmbar 204464127\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+C:\Users\ronam\Desktop\לימודים\שנה ב\סמסטר ב\C#\תרגיל 3\B20 Ex03 GalKalash 205442262 RonAmbar 204464127\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\ronam\Desktop\לימודים\שנה ב\סמסטר ב\C#\תרגיל 3\B20 Ex03 GalKalash 205442262 RonAmbar 204464127\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\ronam\Desktop\לימודים\שנה ב\סמסטר ב\C#\תרגיל 3\B20 Ex03 GalKalash 205442262 RonAmbar 204464127\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll.config
+C:\Users\ronam\Desktop\לימודים\שנה ב\סמסטר ב\C#\תרגיל 3\B20 Ex03 GalKalash 205442262 RonAmbar 204464127\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csprojAssemblyReference.cache
+C:\Users\ronam\Desktop\לימודים\שנה ב\סמסטר ב\C#\תרגיל 3\B20 Ex03 GalKalash 205442262 RonAmbar 204464127\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\ronam\Desktop\לימודים\שנה ב\סמסטר ב\C#\תרגיל 3\B20 Ex03 GalKalash 205442262 RonAmbar 204464127\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CopyComplete
+C:\Users\ronam\Desktop\לימודים\שנה ב\סמסטר ב\C#\תרגיל 3\B20 Ex03 GalKalash 205442262 RonAmbar 204464127\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+C:\Users\ronam\Desktop\לימודים\שנה ב\סמסטר ב\C#\תרגיל 3\B20 Ex03 GalKalash 205442262 RonAmbar 204464127\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb
+C:\Users\ronam\Desktop\לימודים\שנה ב\C#\תרגיל 3\B20 Ex03 GalKalash 205442262 RonAmbar 204464127\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe.config
+C:\Users\ronam\Desktop\לימודים\שנה ב\C#\תרגיל 3\B20 Ex03 GalKalash 205442262 RonAmbar 204464127\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+C:\Users\ronam\Desktop\לימודים\שנה ב\C#\תרגיל 3\B20 Ex03 GalKalash 205442262 RonAmbar 204464127\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+C:\Users\ronam\Desktop\לימודים\שנה ב\C#\תרגיל 3\B20 Ex03 GalKalash 205442262 RonAmbar 204464127\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\ronam\Desktop\לימודים\שנה ב\C#\תרגיל 3\B20 Ex03 GalKalash 205442262 RonAmbar 204464127\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\ronam\Desktop\לימודים\שנה ב\C#\תרגיל 3\B20 Ex03 GalKalash 205442262 RonAmbar 204464127\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll.config
+C:\Users\ronam\Desktop\לימודים\שנה ב\C#\תרגיל 3\B20 Ex03 GalKalash 205442262 RonAmbar 204464127\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csprojAssemblyReference.cache
+C:\Users\ronam\Desktop\לימודים\שנה ב\C#\תרגיל 3\B20 Ex03 GalKalash 205442262 RonAmbar 204464127\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\ronam\Desktop\לימודים\שנה ב\C#\תרגיל 3\B20 Ex03 GalKalash 205442262 RonAmbar 204464127\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CopyComplete
+C:\Users\ronam\Desktop\לימודים\שנה ב\C#\תרגיל 3\B20 Ex03 GalKalash 205442262 RonAmbar 204464127\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+C:\Users\ronam\Desktop\לימודים\שנה ב\C#\תרגיל 3\B20 Ex03 GalKalash 205442262 RonAmbar 204464127\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb
